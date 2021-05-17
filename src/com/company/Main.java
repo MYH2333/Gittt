@@ -6,5 +6,6 @@ public class Main {
 	// write your code here;
         System.out.println("second commit");
         System.out.println("i find the second is not good,so i come back to the first and change the code.");
+        System.out.println("测试右上角的快捷键");
     }
 }
